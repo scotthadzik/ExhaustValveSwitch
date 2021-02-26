@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ESP32 Exhaust Switch'
+project = 'Remote Switch'
 copyright = '2021, Scott Hadzik'
 author = 'Scott Hadzik'
 
